@@ -1,0 +1,11 @@
+@font-face {
+    font-family:CB ;
+    src: url(fonts/Caveat-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family:CR ;
+    src: url(fonts/Caveat-Bold.ttf);
+    font-weight: 400;
+}
